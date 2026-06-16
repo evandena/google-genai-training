@@ -10,7 +10,6 @@ Model Armor prompt security (Challenge 1), BigQuery RAG (Challenge 2), and pytes
 Evaluation Service (Challenge 3) into one deployable service.
 
 - **Live demo:** deployed to Cloud Run during the lab (ephemeral — see the screenshots below for the running app)
-- **Interactive architecture diagram:** https://excalidraw.com/#json=DljkqEpE2Tg_6wdD2fDcG,RvpqxsBeYql72zWsChv75Q
 - **Evaluation result:** groundedness **0.9**, question-answering quality **4.7 / 5** (Vertex AI Gen AI Evaluation Service)
 
 ---
